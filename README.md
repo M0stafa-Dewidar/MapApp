@@ -20,7 +20,7 @@ The following **extensions** are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories: ![Imgur Image](https://i.imgur.com/3aJ8cE1.gifv)
+Here's a walkthrough of implemented user stories: [GIF](https://imgur.com/3aJ8cE1)
 
 GIF created with EzGif (exceeds 10MB so you need to visit the link)
 
