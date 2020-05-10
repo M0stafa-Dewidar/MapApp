@@ -22,9 +22,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories: ![Imgur Image](https://i.imgur.com/3aJ8cE1.gifv)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with EzGif (exceeds 10MB so you need to visit the link)
 
 ## Notes
 
